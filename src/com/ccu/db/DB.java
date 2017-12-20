@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.HashMap;
-asdasd
+
 public class DB {
 	
 /****************************************************************************************************************************/	
@@ -23,6 +23,7 @@ public class DB {
 /**
  * 
  */
+	public ppp
  public DB(){
 		String url = "jdbc:mysql://localhost:3306/keshe";
 		String name = "root";
